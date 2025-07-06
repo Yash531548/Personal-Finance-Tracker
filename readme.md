@@ -6,7 +6,7 @@ A beautiful, full-featured personal finance tracking application built with Next
 
 ## 🚀 Live Demo:
 
- [Personal-Finance-Tracker](https://personal-finance-tracker-6a34rub6c.vercel.app)
+ [Personal-Finance-Tracker](https://personal-finance-tracker-ten-ecru.vercel.app)
 ## ✨ Features
 
 ### 📊 **Transaction Management**
